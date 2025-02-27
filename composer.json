@@ -1,0 +1,20 @@
+{
+  "name": "bluenest/blue-nest-json-file-storage",
+  "description": "Blue Nest json file storage helper library.",
+  "version": "0.100",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Bryan",
+      "email": "composerpackages@bnest.co"
+    }
+  ],
+  "require": {},
+  "autoload": {
+    "files": [
+      "src/blue-nest-json-file-storage.php"
+    ],
+    "classmap": [
+    ]
+  }
+}
